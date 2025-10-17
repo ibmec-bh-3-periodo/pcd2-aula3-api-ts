@@ -113,7 +113,7 @@ b) Configurações importantes no `tsconfig.json`: Configure apenas o essencial 
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
     "resolveJsonModule": true
   }
 }
