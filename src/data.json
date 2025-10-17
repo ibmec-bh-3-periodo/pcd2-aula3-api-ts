@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954,
+      "genero": "Fantasia"
+    },
+    {
+      "id": 2,
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1937,
+      "genero": "Fantasia"
+    },
+    {
+      "id": 3,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano": 1949,
+      "genero": "Distopia"
+    },
+    {
+      "id": 4,
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "ano": 1945,
+      "genero": "Distopia"
+    },
+    {
+      "id": 5,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano": 1899,
+      "genero": "Romance"
+    },
+    {
+      "id": 6,
+      "titulo": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "ano": 1881,
+      "genero": "Romance"
+    },
+    {
+      "id": 7,
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano": 2003,
+      "genero": "Suspense"
+    }
+  ]

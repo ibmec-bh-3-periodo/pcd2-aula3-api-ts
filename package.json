@@ -1,0 +1,29 @@
+{
+  "name": "pcd2-aula3-api-ts",
+  "version": "1.0.0",
+  "description": "Criando API-REST Express e Typescript",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibmec-bh-3-periodo/pcd2-aula3-api-ts.git"
+  },
+  "keywords": [],
+  "author": "Tamara Simões",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibmec-bh-3-periodo/pcd2-aula3-api-ts/issues"
+  },
+  "homepage": "https://github.com/ibmec-bh-3-periodo/pcd2-aula3-api-ts#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^20.14.12",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
